@@ -1,0 +1,7 @@
+{
+	"host":"localhost",
+	"user":"root",
+	"pass":"",
+	"db":"tfm_source",
+	"charset":"utf8mb4"
+}
