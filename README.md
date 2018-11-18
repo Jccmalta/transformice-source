@@ -1,6 +1,11 @@
 # Transformice-Source
 Base desenvolvida em python 3.7x para Transformice.
 
+# Informações da source
+**Linguagem:** Python
+**Versão:** 3.7x
+**Modulos:** Asyncore, socket e struct.
+
 # O que já foi feito?
 - ByteArray (Buffer)
 - Escolha de comunidade.
